@@ -5,9 +5,16 @@ box-sizing: border-box;
 }
 
 /* common */
+
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     font-family: 'Rubik Mono One', sans-serif;
 }
+
 
 .container {
     width: 100%;
@@ -94,6 +101,11 @@ p {
 .text {
     color: green;
 }
+
+
+
+
+ 
 
 
 
